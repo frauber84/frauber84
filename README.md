@@ -1,6 +1,2 @@
-- 👋 Bem-vindo ao meu GitHub! 
+Professor de Harmonia e Análise Musical na Universidade Federal do Rio Grande do Sul! 
 
-<!---
-frauber84/frauber84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
